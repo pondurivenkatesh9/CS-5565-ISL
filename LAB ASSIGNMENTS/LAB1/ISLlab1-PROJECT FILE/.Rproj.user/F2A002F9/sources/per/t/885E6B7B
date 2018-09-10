@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536575644643.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "648309865",
+    "id" : "885E6B7B",
+    "lastKnownWriteTime" : 1536576338,
+    "last_content_update" : 1536576338990,
+    "path" : "~/CODE3.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "14,33",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
